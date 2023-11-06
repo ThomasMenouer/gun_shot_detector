@@ -1,2 +1,5 @@
 # Environment
 venv/*
+
+# Data
+analysis/data/*
