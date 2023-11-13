@@ -6,3 +6,5 @@ scikit-learn
 librosa
 tensorflow
 ipython
+pickle5
+resampy
